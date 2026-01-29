@@ -1,7 +1,7 @@
 ### 📊 Car Price Prediction
 
 Car Price Prediction is a machine learning project built in Python that predicts the selling price of a car based on its features. The project includes both model training and a prediction app using trained models and encoders. 
-GitHub
+GitHub jn
 
 ### 🧠 Project Overview
 
